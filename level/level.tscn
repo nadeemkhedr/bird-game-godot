@@ -13,7 +13,7 @@ scale = Vector2(1.2, 1.2)
 texture = ExtResource("1_2w8lm")
 
 [node name="Cup" parent="." instance=ExtResource("2_icg31")]
-position = Vector2(185, 504)
+position = Vector2(825, 460)
 
 [node name="DebugLabel" type="Label" parent="."]
 offset_left = 23.0
@@ -28,4 +28,4 @@ asassasasa
 assaassasa"
 
 [node name="AnimalStart" type="Marker2D" parent="."]
-position = Vector2(149, 52)
+position = Vector2(358, 256)
